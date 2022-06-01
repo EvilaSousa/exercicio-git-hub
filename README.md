@@ -3,6 +3,7 @@
 ## Dupla:
 - Évila Cavalcante: [GitHub](https://github.com/EvilaSousa)
 - Luana Oliveira: [GitHub](https://github.com/luanaoliveira)
+- Geneseli Dias: [GitHub](https://github.com/geneselidias)
 
 ### Confingurações do Git
 - git help
